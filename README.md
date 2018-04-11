@@ -2,17 +2,17 @@
 
 1. Identify and use 5-10 webpages such as BBC New, Bernama, Al Jazeera and others on topics regarding political/education/economic news in Malaysia.
 
-2. Extract the webpages text and count the number of words in the webpages.
+..2. Extract the webpages text and count the number of words in the webpages.
   + Guide 1: You may refer to [this website](https://www.textise.net) to extract word from a website 
   + Guide 2: You may refer to [this website](https://programminghistorian.org/lessons/counting-frequencies) on how to count word frequency in a website
-...You can also filter stops words from the text you found
+  ...You can also filter stops words from the text you found
   + Guide 3: Stops words are such as conjunctions and prepositions. You may refer to [this link](https://www.ranks.nl/stopwords)
 ...Program using Rabin-karp algorithm to find and delete the stop words.
 
 3. Plot line/scatter/histogram graphs related to the word count using Plotly (Word count, stop words)
   + Guide 4: You may refer this link on how to install [Plotly](https://plot.ly/python/getting-started/) and how to use the API keys
 
-4. Compare words in the webpages with the positive, negative and neutral English words using **_Rabin-Karp String Matching algorithm_**
+..4. Compare words in the webpages with the positive, negative and neutral English words using **_Rabin-Karp String Matching algorithm_**
   + Guide 5: Use the following word as [positive](http://positivewordsresearch.com/list-of-positive-words/) and [negative](http://positivewordsresearch.com/list-of-negative-words/) English words  
     ... Put these words in a text file for you to access them in your algorithm
     ... Words that are not in the list can be considered as neutral
