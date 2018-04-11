@@ -3,10 +3,9 @@
 1. Identify and use 5-10 webpages such as BBC New, Bernama, Al Jazeera and others on topics regarding political/education/economic news in Malaysia.
 
 2. Extract the webpages text and count the number of words in the webpages.
-  + Sometimes a webpage must be converted to the text version before it can be done
-    i. Guide 1: You may refer to [this website](https://www.textise.net) to extract word from a website 
-  +. Guide 2: You may refer to [this website](https://programminghistorian.org/lessons/counting-frequencies) on how to count word frequency in a website
-  +. You can also filter stops words from the text you found
+  + Guide 1: You may refer to [this website](https://www.textise.net) to extract word from a website 
+  + Guide 2: You may refer to [this website](https://programminghistorian.org/lessons/counting-frequencies) on how to count word frequency in a website
+  + You can also filter stops words from the text you found
     i. Guide 3: Stops words are such as conjunctions and prepositions. You may refer to [this link](https://www.ranks.nl/stopwords)
     ii. Program using Rabin-karp algorithm to find and delete the stop words.
 
