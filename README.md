@@ -5,8 +5,8 @@
 2. Extract the webpages text and count the number of words in the webpages.
   + Guide 1: You may refer to [this website](https://www.textise.net) to extract word from a website 
   + Guide 2: You may refer to [this website](https://programminghistorian.org/lessons/counting-frequencies) on how to count word frequency in a website
-  + You can also filter stops words from the text you found
-    i. Guide 3: Stops words are such as conjunctions and prepositions. You may refer to [this link](https://www.ranks.nl/stopwords)
+    i. You can also filter stops words from the text you found
+  + Guide 3: Stops words are such as conjunctions and prepositions. You may refer to [this link](https://www.ranks.nl/stopwords)
     ii. Program using Rabin-karp algorithm to find and delete the stop words.
 
 3. Plot line/scatter/histogram graphs related to the word count using Plotly (Word count, stop words)
