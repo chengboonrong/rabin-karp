@@ -1,0 +1,21 @@
+1. Find 5-10 news webpages regarding to political/education/economic news in Malaysia.
+
+2.  - extract text from the webpages (https://www.textise.net/)
+	
+- count the number of total words in webpages (https://programminghistorian.org/lessons/counting-frequencies)
+	- find and delete those stop words (https://www.ranks.nl/stopwords) from the text by using Rabin-karp algorithm (https://stackoverflow.com/questions/22216948/python-rabin-karp-algorithm-hashing)
+
+3. Plot a graph (line/scatter/histogram) for the word count using Ploty (https://plot.ly/python/getting-started) as a Python API. 
+
+4. - Filter out the words in the webpages (positive/negative/neutral English words) using Rabin-Karp String Matching algorithm 
+	. list of positive words (http://positivewordsresearch.com/list-of-positive-words/)
+	. list of negative words (http://positivewordsresearch.com/list-of-negative-words/)
+
+	- put these words in the text file for you to access them in your algoritm
+	- words not in the list are neutral English words
+
+
+5. Plot an histogram graphs for positive words and negative words found in the webpages. 
+
+6. Make a conclusion based on this algorithm  regarding this sentiment of those news articles
+	- eg. this article is giving positive sentiment as it has more positive words inside.

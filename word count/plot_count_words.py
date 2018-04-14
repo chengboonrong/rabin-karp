@@ -9,6 +9,6 @@ plotly.tools.set_config_file(plotly_domain='',
                              )
 
 plotly.offline.plot({
-    "data": [Scatter(x=list(wordDict.keys()), y=list(wordDict.values()))],
+    "data": [Scatter(x=list(yourWordList.keys()), y=list(yourWordList.values()))],
     "layout": Layout(title="word count"),
 })
