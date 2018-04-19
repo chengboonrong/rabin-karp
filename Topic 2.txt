@@ -17,5 +17,13 @@
 
 5. Plot an histogram graphs for positive words and negative words found in the webpages. 
 
-6. Make a conclusion based on this algorithm  regarding this sentiment of those news articles
+6. Make a conclusion based on this algorithm regarding this sentiment of those news articles
 	- eg. this article is giving positive sentiment as it has more positive words inside.
+
+References:
+1. http://www.asiaone.com/malaysia/dr-m-boldly-shows-forum-discussing-whether-hes-too-old-be-pm
+2. http://www.asiaone.com/malaysia/malaysia-goes-polls-may-9
+3. http://www.asiaone.com/malaysia/johor-crown-prince-defends-fb-post-political-situation-malaysia
+4. https://www.artsy.net/article/artsy-editorial-sally-mann-s-photographs-children-viewers-uncomfortable
+5. https://www.nbcnews.com/feature/nbc-out/malaysian-university-holds-contest-convert-gay-students-n861971
+6. https://www.polygon.com/2018/4/12/17227946/god-of-war-ps4-pro-60fps-4k-1080p

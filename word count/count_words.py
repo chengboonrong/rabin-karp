@@ -63,7 +63,7 @@ text = file.read().lower()
 stopwords = text.split()
 
 
-file = open("../news/news_2.txt",encoding='utf-8')
+file = open("../news/news_8.txt",encoding='utf-8')
 text = file.read().lower()
 
 stopwords_from_text = []
